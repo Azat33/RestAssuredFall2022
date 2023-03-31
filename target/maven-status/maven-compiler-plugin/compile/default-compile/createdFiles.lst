@@ -1,0 +1,6 @@
+org\example\pojo\User.class
+org\example\Main.class
+org\example\pojo\JacksonObjectMapper.class
+org\example\Demo2.class
+org\example\GsonDataConverter.class
+org\example\Demo.class
